@@ -1,0 +1,44 @@
+×{
+  font-family: Georgia, Sans-Serif;
+}
+body {
+ font-family: Georgia, Sans-Serif;
+ background-color: pink;
+ color: black;
+}
+h1 {
+  background-color: purple;
+  color: white;
+  border: red groove;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Times New Roman";
+  font-size: 36px;
+}
+.head-break {
+  color: black;
+  background-color: red;
+}
+a, li {
+  text-decoration:none;
+  color: white;
+  list-style-type: none;
+  border-radius: 5px;
+}
+.recipe-list {
+  color: inherit;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-right: 30px;
+}
+#Recipe-list {
+  list-style-type: none;
+  margin-right: 15px;
+}
+li {
+  border: 2px groove purple;
+  margin-bottom: 20px;
+  padding: 5px 5px 5px 5px;
+  background-color: red;
+}
